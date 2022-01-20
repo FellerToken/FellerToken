@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/fellertoken.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/fellertoken.sol": {
+			"keccak256": "0xbb72d4f262b30eb851a6fd06c0cbedc5f95e71ea8ce5087941d4339d73fed3f7",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://6ed72c57be5cd6bb5e5039ee2cc0be95b78574ea2889296ad742187d7695de48",
+				"dweb:/ipfs/QmZkBmv4LnqevgwXZG4pjw1DQ6rANzcuGBMjaafsLTAhef"
+			]
+		}
+	},
+	"version": 1
+}
